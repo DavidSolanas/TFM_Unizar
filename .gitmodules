@@ -1,0 +1,9 @@
+[submodule "OASIS3Preprocessing"]
+	path = OASIS3Preprocessing
+	url = https://github.com/DavidSolanas/OASIS3Preprocessing.git
+[submodule "TFM_TransMorph"]
+	path = TFM_TransMorph
+	url = https://github.com/DavidSolanas/TFM_TransMorph.git
+[submodule "pytorch-CycleGAN3D"]
+	path = pytorch-CycleGAN3D
+	url = https://github.com/DavidSolanas/pytorch-CycleGAN3D.git
