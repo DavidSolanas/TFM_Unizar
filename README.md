@@ -25,7 +25,7 @@ The source code in this repository is licensed under the [Apache License 2.0](./
 You can freely use, modify, and distribute it, provided that you include proper attribution and adhere to the license terms.
 
 ### Thesis Report
-The thesis document (`TFM_Unizar_Report.pdf`) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+The thesis document (`TAZ-TFM-2023-1571.pdf`) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format  
